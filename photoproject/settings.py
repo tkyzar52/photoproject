@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6avxnxkd+7s$q+e$nr!viodg2quhplr2r323l9(6wzx*(#c9e-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['photosystem4taka.pythonanywhere.com']
+ALLOWED_HOSTS = ['photosystem4zar.pythonanywhere.com']
 
 
 # Application definition
